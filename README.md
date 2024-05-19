@@ -2,7 +2,7 @@
 
 This is an information repo for the game on-chain adventure game, Adventurecaster. The game can only be played in an 
 embedded Farcaster Frame, and runs on the Base L2 network. The url for this Frame is 
- [https://adventurecaster.netlify.app/api/](https://adventurecaster.netlify.app/api/)
+ [https://adventurecaster.netlify.app](https://adventurecaster.netlify.app)
 
  Paste this link into a Farcaster post to view and play the game, it can also be played by viewing it in other people's 
   posts.
@@ -28,6 +28,8 @@ embedded Farcaster Frame, and runs on the Base L2 network. The url for this Fram
    story blocks can only have a maximum of 3 options.
 - The input field that can be added to a Farcaster frame only accepts a maximum of 256 bytes as input, so the story 
    creation system must account for this.
+
+
 
 ### Dumb Contracts
 
